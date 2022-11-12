@@ -1,0 +1,50 @@
+[{
+	"name": "GPS auto in limba romana cu handsfree si functii de tableta: incarci muzica, video, e-book, poze",
+	"color": "White",
+	"bani": 349.99,
+	"available": true,
+  "star": [1, 2, 3, 4],
+  "notStar": [1],
+	"televizor": true,
+	"description": "Col",
+	"thumb": "content/image/auto1.jpg"
+}, {
+	"name": "Breloc auto cu camera Spion-foto-video",
+	"color": "Green",
+	"bani": 89.25,
+	"available": true,
+  "star": [1, 2],
+  "notStar": [1, 2, 3],
+	"televizor": true,
+	"description": "Epic",
+	"thumb": "content/image/auto2.jpg"
+}, {
+	"name": "Set huse Scaune Auto Universale Flexzon Lux, Piele ecologica, Negru/Rosu 9buc",
+	"color": "red",
+	"bani": 367.35,
+	"available": true,
+  "star": [1, 2, 3, 4, 5],
+	"televizor": true,
+	"description": "1",
+	"thumb": "content/image/auto3.jpg"
+}, {
+	"name": "Set 4 covorase auto Rigum, FORD Fiesta 2008",
+	"color": "blue",
+	"bani": 117.81,
+	"available": true,
+  "star": [1, 2, 3],
+  "notStar": [1, 2],
+	"televizor": false,
+	"description": "2",
+	"thumb": "content/image/auto4.jpg"
+}, {
+	"name": "Scaun auto ISOFIX U-Grow UGHCS-06, 0-36 kg, Gri/Negru",
+	"color": "yellow",
+	"bani": 779.99,
+	"available": true,
+  "star": [1, 2, 3, 4],
+  "notStar": [1],
+	"televizor": true,
+	"description": "1",
+	"thumb": "content/image/auto5.jpg"
+}]

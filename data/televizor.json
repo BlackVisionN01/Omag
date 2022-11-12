@@ -1,0 +1,35 @@
+[{
+	"name": "Televizor Samsung 43TU7172, 108 cm, Smart, 4K Ultra HD, LED, Clasa G",
+	"bani": 1599.99,
+	"available": true,
+  "star": [1, 2, 3],
+  "notStar": [1, 2],
+	"thumb": "content/image/televizor1.jpg"
+}, {
+	"name": "Televizor LED Smart LG, 80 cm, 32LM6300PLA, Full HD, Clasa G",
+	"bani": 1099.99,
+	"available": true,
+  "star": [1, 2, 3, 4],
+  "notStar": [1],
+	"thumb": "content/image/televizor2.jpg"
+}, {
+	"name": "Televizor LED Smart Samsung, 80 cm, 32N5372, Full HD, Clasa A",
+	"bani": 1399.99,
+	"available": true,
+  "star": [1, 2, 3],
+  "notStar": [1, 2],
+	"thumb": "content/image/televizor3.jpg"
+}, {
+	"name": "Televizor Smart LED, Samsung UE32T4302, 80 cm, HD",
+	"bani": 899.99,
+	"available": true,
+  "star": [1, 2],
+  "notStar": [1, 2, 3],
+	"thumb": "content/image/televizor4.jpg"
+}, {
+	"name": "Televizor Smart LED, Metz 42MTC6000, 106 cm, Full HD, Android",
+	"bani": 1199.99,
+	"available": true,
+  "star": [1, 2, 3, 4, 5],
+	"thumb": "content/image/televizor5.jpg"
+}]

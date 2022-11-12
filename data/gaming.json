@@ -1,0 +1,50 @@
+[{
+	"name": "Sistem PC Gaming RGB cu procesor Intel® Core™ i5 3470 pana la 3.60GHz, 8GB Ram, SSD 240 Gb, placa video GT 1030 2Gb Gddr5",
+	"color": "White",
+	"bani": 1694.99,
+	"available": true,
+  "star": [1, 2, 3],
+  "notStar": [1, 2],
+	"televizor": true,
+	"description": "Col",
+	"thumb": "content/image/gaming1.jpg"
+}, {
+	"name": "Monitor Curbat Gaming LED VA MSI 27 inch, Full HD, Display Port, FreeSync, 165Hz, 1ms, Negru, G27C4",
+	"color": "Green",
+	"bani": 799.99,
+	"available": true,
+  "star": [1],
+  "notStar": [1, 2, 3, 4],
+	"televizor": true,
+	"description": "Epic",
+	"thumb": "content/image/gaming2.jpg"
+}, {
+	"name": "Laptop Gaming ASUS TUF FX504GD cu procesor Intel® Core™ i7-8750H pana la 4.10 GHz, Coffee Lake, 15.6 inch, Full HD, 8GB, 1TB, nVIDIA® GeForce® GTX 1050 4GB, Free DOS, Black",
+	"color": "red",
+	"bani": 4505.14,
+	"available": true,
+  "star": [1, 2],
+  "notStar": [1, 2, 3],
+	"televizor": true,
+	"description": "1",
+	"thumb": "content/image/gaming3.jpg"
+}, {
+	"name": "Casti gaming cu microfon, USB, NEGRU, LED Albastru",
+	"color": "blue",
+	"bani": 122.57,
+	"available": true,
+  "star": [1, 2, 3, 4, 5],
+	"televizor": false,
+	"description": "2",
+	"thumb": "content/image/gaming4.jpg"
+}, {
+	"name": "Tastatura gaming Marvo KG954G",
+	"color": "yellow",
+	"bani": 558.99,
+	"available": true,
+  "star": [1, 2],
+  "notStar": [1, 2, 3],
+	"televizor": true,
+	"description": "1",
+	"thumb": "content/image/gaming5.jpg"
+}]

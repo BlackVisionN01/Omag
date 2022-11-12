@@ -1,0 +1,49 @@
+[{
+	"name": "Rama foto de perete, copac ,V M FASHION, 7 poze, culoare auriu",
+	"color": "White",
+	"bani": 74.99,
+	"available": true,
+  "star": [1, 2, 3, 4, 5],
+	"televizor": true,
+	"description": "Col",
+	"thumb": "content/image/fashion1.jpg"
+}, {
+	"name": "Set 3 albume foto Old Fashion, 300 poze 10x15, cutie, negru",
+	"color": "Green",
+	"bani": 58.99,
+	"available": true,
+  "star": [1, 2, 3, 4, 5],
+	"televizor": true,
+	"description": "Epic",
+	"thumb": "content/image/fashion2.jpg"
+}, {
+	"name": "Album Foto Cutie - Love Letters",
+	"color": "red",
+	"bani": 369.99,
+	"available": true,
+  "star": [1],
+  "notStar": [1, 2, 3, 4],
+	"televizor": true,
+	"description": "1",
+	"thumb": "content/image/fashion3.jpg"
+}, {
+	"name": "Perna personalizata patrata cu poza si text, alba, 40x40 cm",
+	"color": "blue",
+	"bani": 46.99,
+	"available": true,
+  "star": [1, 2],
+  "notStar": [1, 2, 3],
+	"televizor": false,
+	"description": "2",
+	"thumb": "content/image/fashion4.jpg"
+}, {
+	"name": "Rama Foto Cub Rotativ",
+	"color": "yellow",
+	"bani": 33.99,
+	"available": true,
+  "star": [1, 2, 3],
+  "notStar": [1, 2],
+	"televizor": true,
+	"description": "1",
+	"thumb": "content/image/fashion5.jpg"
+}]

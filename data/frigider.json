@@ -1,0 +1,45 @@
+[{
+	"name": "Side by side Beko GNO4331XPN, 433 l, Clasa E, NeoFrost Dual Cooling, Display touch, H 177, Inox",
+	"color": "White",
+	"bani": 2799.99,
+	"available": true,
+  "star": [1, 2, 3],
+  "notStar": [1, 2],
+	"thumb": "content/image/frigider1.jpg"
+}, {
+	"name": "Beersafe XXL Onyx frigider",
+	"color": "Green",
+	"bani": 1638.99,
+	"available": true,
+  "star": [1],
+  "notStar": [1, 2, 3, 4],
+	"thumb": "content/image/frigider2.jpg"
+}, {
+	"name": "Combina frigorifica Bosch KGN56XLEA, 508 l, Clasa E, NoFrost, VitaFresh, H 193 cm, Argintiu",
+	"color": "red",
+	"bani": 3589.99,
+	"available": true,
+  "star": [1, 2, 3, 4, 5],
+	"televizor": true,
+	"description": "1",
+	"thumb": "content/image/frigider3.jpg"
+}, {
+	"name": "Combina frigorifica Indesit LI8S1ESAQUA, 334 l, Clasa F, Fast cooling, Less frost, Fresh box, Dozator apa, H 189 cm, Argintiu",
+	"color": "blue",
+	"bani": 2673.99,
+	"available": true,
+  "notStar": [1, 2, 3, 4, 5],
+	"televizor": false,
+	"description": "2",
+	"thumb": "content/image/frigider4.jpg"
+}, {
+	"name": "Combina frigorifica Beko RCSA406K40XBN, 380 l, Clasa E, Active Fresh Blue Light, H 201 cm, Argintiu",
+	"color": "yellow",
+	"bani": 1489.99,
+	"available": true,
+  "star": [1, 2, 3, 4],
+  "notStar": [1],
+	"televizor": true,
+	"description": "1",
+	"thumb": "content/image/frigider5.jpg"
+}]
