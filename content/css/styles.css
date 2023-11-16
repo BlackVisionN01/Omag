@@ -9,7 +9,7 @@ h1,h2,h3{
 }
 
 img {
-    height: 286px;
+    height: 300px;
     width: 100%;
 }
 
@@ -33,7 +33,7 @@ img {
 #menu-bar{
   background: crimson;
   color: #fff;
-  padding: 10px;
+  padding: 12px;
 }
 
 #menu-bar h1{
@@ -42,12 +42,6 @@ img {
   display: inline-block;
 }
 
-#menu-bar ul{
-  float: right;
-  list-style-type: none;
-  padding: 0;
-  margin: 6px 0;
-}
 
 #menu-bar li{
   float: right;
@@ -135,7 +129,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #555;
+  background-color: #AE9D96;
   color: white;
 }
 

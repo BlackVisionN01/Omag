@@ -33,7 +33,7 @@
         <div class="row">
           <div class="col-sm" ng-repeat="caractere in vectori | orderBy: order| filter: search" ng-show="caractere.available">
             <div class="card" style="width: 18rem;">
-              <img ng-src="{{caractere.thumb}}" style"margin: -12px 10px 0 0; float: left; width: 50px"/ ng-show="caractere.thumb" class="card-img-top">
+              <img ng-src="{{caractere.thumb}}" ng-show="caractere.thumb" class="card-img-top">
               <div class="card-body">
                 <h5 class="card-title">{{caractere.name}}</h5>
                 <div align = "center">
