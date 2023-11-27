@@ -1,5 +1,5 @@
 body{
-  background-color: #2125292e;
+  background-color: #FFBBBB;
   font-family: Helvetica;
   margin: 0;
 }
@@ -15,15 +15,6 @@ img {
 
 .checked {
   color: orange;
-}
-
-.belt{
-  padding: 5px 10px;
-  border-radius: 10px;
-  margin-left: 5px;
-  color: #fff;
-  font-size: 15px;
-  text-transform: uppercase;
 }
 
 .card {
